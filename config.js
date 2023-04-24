@@ -45,7 +45,7 @@ var config = {
         //"今天是你的生日",
         //"这是我们在一起的",
         //"第一个生日",
-        "还记得吗",
+        //"还记得吗",
         "在一起后的第一次见面": "./imgs/jianmian.png",
         "第一次牵手": "./imgs/qianshou.png",
         "第一次叫老公": "./imgs/laogong.png",
