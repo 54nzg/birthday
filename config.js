@@ -60,7 +60,7 @@ var config = {
         "第二次来找某人,送我的花": "./imgs/hua.jpeg",
         "去了圣水寺,爬了好高好高的楼梯": "./imgs/shengshuisi.jpeg",
         "一起签了平安符": "./imgs/pingan.jpeg",
-        "一起看了场包场电影,虽然我希望多点人": "./imgs/dianying.jpeg",
+        "一起看了场包场电影,虽然我希望多点人": "./imgs/dianying.jpg",
         "和某人一起吃的酸奶": "./imgs/suannai.jpeg",
         "100天送某人的花": "./imgs/100.jpg",
         "给某人剪脚趾甲": "./imgs/jiaozhijia.jpg",
